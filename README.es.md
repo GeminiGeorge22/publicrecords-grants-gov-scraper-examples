@@ -1,5 +1,8 @@
 # Grants.gov Scraper — ejemplos
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-grants-gov-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-grants-gov-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Subvenciones federales abiertas de EE. UU.: agencia, plazo, elegibilidad y enlace a la fuente.
 
 El Actor se ejecuta en **tu** cuenta de Apify (token de API u OAuth). El uso se factura a ti, en el plan gratuito o de pago de Apify.
